@@ -9,7 +9,7 @@ I use it to improve my programming skills by working on basic to advanced concep
 
 In this repository, you will find:
 
-- Beginner-level Python programs  
+- Intermediate-level Python programs  
 - Practice problems and solutions  
 - Data handling and logic building exercises  
 - Simple projects and experiments  
