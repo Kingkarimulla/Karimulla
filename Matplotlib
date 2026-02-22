@@ -1,0 +1,12 @@
+import matplotlib.pyplot as plt
+
+y = [112, 345, 665, 543, 567]
+x = ["part1", "part2", "part3", "part4", "part5"]
+
+plt.bar(x, y)
+
+plt.xlabel("Parts Of Movies")
+plt.ylabel("Hype or Collections")
+plt.title("Movies Collection")
+
+plt.show()
